@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+header{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #000000;
+}
+.container{
+    width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.menus li a{
+    color: white;
+}
+.novbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ul{
+    list-style: none;
+}
+ul a{
+    text-decoration: none;
+}
+.menus{
+    display: flex;
+    gap: 40px;
+}
+
+#hero{
+    background-image: url("../css/fon.png");
+    padding-top: 80px;
+    padding-bottom: 236px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.herol{
+    color: white;
+    font-size: 110px;
+
+}
+.as{
+    color: white;
+    font-size: 18px;
+}
+.btn{
+    color: white;
+width: 180px;
+height: 53px;
+background-color: #F57520;
+border-radius: 10px;
+margin-top: 40px;
+}
+#velo{
+    background-image: url("../css/1-rasmfon.png");
+    height: 533px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#info{
+    background-color: #F8F8F8;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.veliklar{
+    display: flex;
+    background-color:#F8F8F8;
+    gap: 10px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    justify-content: space-between;
+}
+.sss{
+ padding-left: 200px;
+ padding-bottom: 20px;
+ padding-top: 20px;
+ font-size: 64px;
+}
+#vev{
+    background-image: url("../css/2-rasmfon.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bob{
+    display: flex;
+    justify-content: space-between;
+padding-left: 10px;
+padding-right: 10px;
+background-color: #F8F8F8;
+padding-bottom: 100px;
+padding-top: 50px;
+    
+}
+.azx{
+padding-left: 200px;
+ padding-bottom: 20px;
+ padding-top: 20px;
+ font-size: 64px;
+}
+.mom1{
+width: 368px;
+height: 287px;
+}
+.mom2{
+ width: 368px;
+height: 287px;
+}
+.mom3{
+width: 368px;
+height: 287px;
+}
+.mom1 p{
+    color: #777777;
+    font-size: 16px;
+}
+.mom2 p{
+    color: #777777;
+    font-size: 16px;
+}
+.mom3 p{
+    color: #777777;
+    font-size: 16px;
+}
+#vav{
+      background-image: url("../css/map.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+#adw{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.cover{
+  padding-bottom: 50px;
+    padding-top: 50px;
+       display: flex;
+justify-content: space-between;
+}
+.qa1{
+    width: 400px;
+    height: 462px;
+    background-color: #101010;
+    border-radius: 10px;
+
+}
+.qaq{
+    padding-left: 170px;
+ padding-bottom: 20px;
+ padding-top: 20px;
+ font-size: 50px;
+}
+.card{
+    width: 400px;
+    height: 195px;
+    border-radius: 10px;
+}
+.aaa{
+    color: white;
+    margin: 15px 15px;
+    font-size: 16px;
+}
+.aas{
+    color: #F57520;
+    font-size: 16px;
+}
